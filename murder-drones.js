@@ -1,5 +1,11 @@
+// ==========================================
+// MURDER DRONES - SANDBOXELS
+// ==========================================
+
 elements.worker_drone = {
     color: "#808080",
     behavior: behaviors.POWDER,
-    category: "powders",
+    category: "land",
+    state: "solid",
+    density: 1500
 };
